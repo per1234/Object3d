@@ -7,7 +7,7 @@ MatrixCopy	KEYWORD2
 MatrixMult	KEYWORD2
 mesh	KEYWORD2
 depthMap	KEYWORD2
-init KEYWORD2
+init	KEYWORD2
 Translate	KEYWORD2
 Rotate	KEYWORD2
 Scale	KEYWORD2
